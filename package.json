@@ -1,0 +1,14 @@
+{
+  "name": "agencia_viajes_chile",
+  "version": "1.0.0",
+  "description": "actualizacion web viajes de chile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicole Fernandez Gutierrez",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}

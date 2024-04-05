@@ -1,0 +1,26 @@
+@import '../abstracts/_variables.scss';
+
+.contact {
+    
+    &__info {
+        margin-bottom: 1rem;
+        &--icon {
+            font-size: 1rem;
+            color: $color-lemon-green;
+            margin-right: .75rem;
+        }
+    
+        &--link {
+            text-decoration: none;
+            color: $color-light-green;
+
+        }
+        &--link:hover {
+            color: $color-lemon-green;
+        }
+    }
+}
+.custom-tooltip {
+    --bs-tooltip-bg: #b2d8aa;
+    --bs-tooltip-color: #22373c;
+}
